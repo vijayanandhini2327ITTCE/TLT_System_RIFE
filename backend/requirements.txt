@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+numpy
+opencv-python
+torch
+ffmpeg-python
+ccvfi
+python-dotenv
